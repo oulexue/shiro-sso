@@ -1,0 +1,10 @@
+com\taotao\controller\LoginController.class
+com\taotao\controller\PictureContoller.class
+com\taotao\controller\ContentController.class
+com\taotao\controller\PageController.class
+com\taotao\controller\FastDFSClient.class
+com\taotao\controller\ItemController.class
+com\taotao\controller\ItemCategoryController.class
+com\taotao\controller\ContentCategoryController.class
+com\taotao\controller\ShiroDbRealm.class
+com\taotao\controller\ItemParamController.class
